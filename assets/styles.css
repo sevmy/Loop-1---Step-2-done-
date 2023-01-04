@@ -1,0 +1,97 @@
+.container{
+    min-width: 1200px;
+}
+
+.loop-2 {
+    background-image: url(./img/background.jpg);
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 500px;
+    padding-bottom: 175px;
+    margin: 50px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bgcolor{
+    position: absolute;
+    background-color: #fff;
+}
+
+h2 {
+    font-size: 20px;
+    padding-left: 13px;
+}
+
+.visa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 45px;
+    color: #aaa;
+}
+
+.visa:hover {
+    color:rgb(97, 96, 96)
+}
+
+/* .line {
+    position: absolute;
+    display: inline-block;
+    width: 50px;
+    height: 2px;
+    color: #000;
+} */
+
+.visa3 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #aaa;
+}
+
+.mastercard {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.maestro {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #aaa;
+}
+
+.vmm:hover{
+    background-color:rgb(226, 222, 222);
+}
+
+
+.NEXT {
+    background-color: rgb(115, 135, 252);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
